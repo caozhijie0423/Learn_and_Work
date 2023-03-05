@@ -1,0 +1,16 @@
+test
+<<<<<<< .merge_file_clpZDl
+=======
+<<<<<<< HEAD,modifyorigin
+>>>>>>> .merge_file_zwXTre
+test123
+test4
+=======
+test2
+test3
+<<<<<<< .merge_file_clpZDl
+
+=======
+>>>>>>> be4220464dcfd6fd9de15fc30112e1bbc2395212
+modify:origin
+>>>>>>> .merge_file_zwXTre
